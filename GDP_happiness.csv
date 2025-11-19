@@ -1,4 +1,4 @@
-,GDP per capita,happiness
+country,GDP per capita,happiness
 Belgium,133.0,6.864
 Bulgaria,28.2,5.102
 Czech Republic,67.4,6.911
@@ -34,3 +34,4 @@ Albania,15.3,4.883
 Serbia,21.2,5.778
 Turkey,26.4,5.132
 Latvia,,5.95
+
